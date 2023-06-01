@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "cat-list",
-    "slug": "cat-list"
+    "slug": "cat-list",
+    "extra": {
+      "eas": {
+        "projectId": "edfaeada-f026-416b-afe0-b1f7329ead74"
+      }
+    },
+    "android": {
+      "package": "com.manzf29_.catlist"
+    }
   }
 }
