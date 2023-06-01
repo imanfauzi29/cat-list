@@ -1,14 +1,15 @@
-# Expo Router Example
+# Cat List
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Menggunakan react expo sebagai stack untuk membuat list kucing.
 
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+npm i
+npm run android
 ```
 
-## 📝 Notes
+## Dependencies
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+- [react-query@^3.39.3](https://tanstack.com/query/v3/)
+- [@expo/vector-icons](https://icons.expo.fyi/)
